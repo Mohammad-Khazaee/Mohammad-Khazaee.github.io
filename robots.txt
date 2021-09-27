@@ -1,5 +1,5 @@
-user-agent: *
-disallow: /mk.html
-allow: /
+User-agent: *
+Disallow: /mk.html
+Allow: /
 
 Sitemap: https://mohammad-khazaee.github.io/sitemap.xml
