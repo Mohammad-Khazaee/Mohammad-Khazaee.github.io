@@ -1,5 +1,7 @@
+---
+permalink: /robots.txt
+---
 User-agent: *
-Disallow: /mk.html
-Allow: /
+Disallow:
 
-Sitemap: https://mohammad-khazaee.github.io/sitemap.xml
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
