@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>student</a>.Ferdowsi. khazaee.md@gmail.com
+subtitle: <a href='#'>engineer</a> FUM khazaee.md@gmail.com
 
 profile:
   align: right
@@ -13,8 +13,8 @@ profile:
     <p>Ferdowsi Univercity of Mashhad</p>
     <p>Tehran/Mashhad</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
