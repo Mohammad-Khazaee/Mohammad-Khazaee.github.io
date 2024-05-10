@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mohammad-khazaee.github.io///sitemap.xml
+Sitemap: https://mohammad-khazaee.github.io/https://mohammad-khazaee.github.io//sitemap.xml
