@@ -18,5 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello my name is mohammad khazaee. I'm electrical engineering and computer science student at ferdowsi univercity of mashhad 
+Hello my name is mohammad khazaee. I'm electrical engineering student at ferdowsi univercity of mashhad 
 
