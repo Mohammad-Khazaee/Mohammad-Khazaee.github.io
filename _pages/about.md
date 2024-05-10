@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>student</a>.Ferdowsi. khazaee.md@gmail.com
+subtitle:  khazaee.md@gmail.com
 
 profile:
   align: right
