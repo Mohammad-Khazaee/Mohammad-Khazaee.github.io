@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: perfectionism
-title: حدف کمال گرایی و مراحل چیشرفت واقعی
+title: حدف کمال گرایی و مراحل پیشرفت واقعی
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
