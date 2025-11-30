@@ -8,3 +8,5 @@ theme:
 plugins:
   - search
   - blog
+extra:
+  generator: false
