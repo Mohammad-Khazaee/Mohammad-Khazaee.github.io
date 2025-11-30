@@ -1,11 +1,4 @@
-# Welcome to MkDocs
+# Home page
 
- this is a test
-
-## part two
-
-this is explaination
-
-## part two
-
-this is explaination
+Hi ,this is Mohammad Khazaei website.
+in this website i talk about technologies.

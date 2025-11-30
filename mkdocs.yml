@@ -1,4 +1,10 @@
-site_name: My site
-site_url: https://Mohammad-Khazaee.github.io
+site_name: Mohammad Khazaei
+site_description: example
+site_url: http://Mohammad-Khazaei.github.io
+
 theme:
   name: material
+
+plugins:
+  - search
+  - blog
